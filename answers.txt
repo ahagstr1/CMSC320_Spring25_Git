@@ -23,3 +23,10 @@ track of when branches are merged. Rebasing movies and replays commits
 from one branch into another to make a linear commit history. There is no
 extra merge commit. This makes the history cleaner and more linnear but
 rewrites the commit history which is bad in some cases. 
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: This semester I look forward to making the most out of my classes.
+I've gotten to the point where I can choose my computer science classes
+which is really fun! I also look forward to spending more time with friends!
